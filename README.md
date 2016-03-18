@@ -20,3 +20,4 @@ You only have 3 lives.
 
 - Prototype
 
+![alt prototype](https://raw.githubusercontent.com/Perith/Design2/master/PunchingMan.png)
